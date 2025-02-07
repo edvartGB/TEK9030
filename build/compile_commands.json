@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/edvart/Programming/computer_vision/build",
-  "command": "/usr/bin/clang++ -isystem /usr/local/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/edvart/Programming/computer_vision/week_3_blending/main.cpp",
-  "file": "/Users/edvart/Programming/computer_vision/week_3_blending/main.cpp",
-  "output": "CMakeFiles/main.dir/main.cpp.o"
-}
-]
