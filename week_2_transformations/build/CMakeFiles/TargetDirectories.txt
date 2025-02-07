@@ -1,3 +1,0 @@
-/Users/edvart/Programming/computer_vision/week_2_transformations/build/CMakeFiles/main.dir
-/Users/edvart/Programming/computer_vision/week_2_transformations/build/CMakeFiles/edit_cache.dir
-/Users/edvart/Programming/computer_vision/week_2_transformations/build/CMakeFiles/rebuild_cache.dir
