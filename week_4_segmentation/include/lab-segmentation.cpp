@@ -42,7 +42,7 @@ void runSegmentationLab()
 
   // Connect to the camera.
   // Change to video file if you want to use that instead.
-  constexpr int video_source = 1;
+  constexpr int video_source = 0;
   cv::VideoCapture cap{video_source};
   cap.set(cv::CAP_PROP_FRAME_WIDTH, 640);
   cap.set(cv::CAP_PROP_FRAME_HEIGHT, 480);
